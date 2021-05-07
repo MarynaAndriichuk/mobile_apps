@@ -1,0 +1,4 @@
+files:
+  - source: /source/en/*.*
+    translation: /localized/%language%/%original_file_name%
+    translate_attributes: 0

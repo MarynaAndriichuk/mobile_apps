@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="identifier_1">String for translation</string>
-    <string name="identifier_2">String for translation</string>
-    <string name="identifier_3">String for translation</string>
-    <string name="identifier_4">String for translation</string>
+    <string name="identifier_1">Cadena para traducir</string>
+    <string name="identifier_2">Cadena para traducir</string>
+    <string name="identifier_3">Cadena para traducir</string>
+    <string name="identifier_4">Cadena para traducir</string>
 </resources>
